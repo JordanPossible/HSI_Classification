@@ -1,0 +1,21 @@
+Dimensionality has been reduce from 21362200 pixels to 4405928 pixels (20% data of the total)
+CONFUSION MATRIX : 
+[[ 4437     1    25     0     3     5    51    47     1]
+ [   29 14849     3   201     0  1459     0    16     0]
+ [  565    27  1567     0     0     8    30   854     0]
+ [    0   960     0  2646     0     1     0     0     0]
+ [   26     0     0     3  1136     3     0     0     0]
+ [   64  2592     4    13     1  3307     2    17     0]
+ [ 1085     0    15     0     0     0  1046    12     0]
+ [  225    20   285     0     5    46     1  2536     0]
+ [    0     0     0     1     0     0     0     0   746]]
+32270.0 pixels has been predicted correctly for a total of 40976.0 pixels (78.75341663412729%)
+accuracy 1:0.689939356243197
+accuracy 2:0.804867472491734
+accuracy 3:0.8251711427066877
+accuracy 4:0.9238826815642458
+accuracy 5:0.9921397379912664
+accuracy 6:0.6848208738869331
+accuracy 7:0.9256637168141593
+accuracy 8:0.7283170591614015
+accuracy 9:0.998661311914324

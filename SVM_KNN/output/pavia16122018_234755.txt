@@ -1,0 +1,1 @@
+Dimensionality has been reduce from 21362200 pixels to 4405928 pixels (20% data of the total)
